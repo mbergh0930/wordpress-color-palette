@@ -1,11 +1,13 @@
 <?php
 
 /**
- * Plugin Name: Color Palette
+ * Plugin Name: WordPress Color Palette Forked
  * Description: This WordPress plugin adds a color palette block to the post editor, to be used for branding and style guide pages.
  * Version: 4.3.2
- * Author: Joni Halabi
- * Author URI: https://jhalabi.com
+ * Author of Forked Version:  Michele Bergh 
+ * Forked Author URI:  https://berghconsulting.com
+ * Author of Original: Joni Halabi, original creator
+ * Original Author URI: https://jhalabi.com
  * License: GPLv2
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
